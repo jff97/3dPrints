@@ -1,8 +1,0 @@
-0.7 		= scale
-approx 220mm 	= wing tip to wing tip
-20%		= infill
-0.12mm		= layer resolution
-142g 		= weight
-1 day 11hr 	= time
-orientation 	= horizontal diagonal
-Other questions	= see bestIdea.jpg
