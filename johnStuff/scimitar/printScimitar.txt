@@ -1,6 +1,0 @@
-Can you print the scimitar.stl file with mm as the interpreted units at 8% scale. 
-This produces dimensions of about 9.91 inches by 8.21 inches by 1.88 inches. (251 X 208 X 47)mm.
-For fill I am looking for on the more dense side.
-For line printing width even though it might take awhile i would like very thin so the details show up nicely. 
-If it is possible and not very expensive I might want to increase the scale if that will increase the detail on the print. 
-light grey or other light colors will be fine. 
