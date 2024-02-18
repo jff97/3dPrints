@@ -1,1 +1,0 @@
-Settlers of Catan Harbor Tokens by Mystik738 on Thingiverse: https://www.thingiverse.com/thing:3852280

@@ -1,1 +1,0 @@
-Star Wars: AT-TE - Republic Assault Walker by outofstep on Thingiverse: https://www.thingiverse.com/thing:433063
