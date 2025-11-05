@@ -1,0 +1,1 @@
+Mcfarlane Scale Crucible Sword from Doom Eternal  by Crafty_Gecko on Thingiverse: https://www.thingiverse.com/thing:4434743

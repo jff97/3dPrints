@@ -1,0 +1,4 @@
+Pie by ururk on Thingiverse: https://www.thingiverse.com/thing:2825611
+
+Summary:
+I needed a 3D printable pie, but couldn't fine one that was sort of realistic. This is my attempt at one.Designed for either a single color printer or for multi-color printers with the other individual files.You can mix and match pans with pie variations.You will likely need to print it at a reduced size - the actual file is 254mm in diameter.Single color printer files:Whole Pie.stlWhole Pie - missing slice.stlSlice.stlMulticolor printer files:PansSimple Pan:Pan.stlA pan with a Pi symbol at the bottom:Pi Pan - Pan.stlPi Pan - Pi.stlPiesA complete pie: Whole Outer Crust.stlWhole Filling.stlWhole Lattice.stlA pie with a slice missing:Slice Missing Outer Crust.stlSlice Missing Filling.stlSlice Missing Lattice.stlSingle slice:Slice - Lattice.stlSlice - Filling.stlSlice - Outer Crust.stl

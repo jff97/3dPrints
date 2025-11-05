@@ -1,0 +1,1 @@
+Doom Slayer Left Shoulder Pauldron by JohnnyDarling on Thingiverse: https://www.thingiverse.com/thing:4023586

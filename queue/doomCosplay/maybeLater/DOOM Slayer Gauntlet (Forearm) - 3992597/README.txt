@@ -1,0 +1,1 @@
+DOOM Slayer Gauntlet (Forearm) by JohnnyDarling on Thingiverse: https://www.thingiverse.com/thing:3992597
