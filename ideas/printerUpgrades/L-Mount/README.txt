@@ -1,1 +1,0 @@
-Ender 3 Webcam mount by aallensd on Thingiverse: https://www.thingiverse.com/thing:3147743

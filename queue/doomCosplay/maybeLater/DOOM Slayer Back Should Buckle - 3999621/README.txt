@@ -1,1 +1,0 @@
-DOOM Slayer Back Should Buckle by JohnnyDarling on Thingiverse: https://www.thingiverse.com/thing:3999621

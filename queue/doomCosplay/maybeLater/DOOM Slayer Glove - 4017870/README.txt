@@ -1,1 +1,0 @@
-DOOM Slayer Glove by JohnnyDarling on Thingiverse: https://www.thingiverse.com/thing:4017870

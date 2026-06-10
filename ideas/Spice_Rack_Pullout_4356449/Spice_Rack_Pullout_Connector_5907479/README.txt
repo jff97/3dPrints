@@ -1,1 +1,0 @@
-Spice Rack Pullout Connector by commputethis on Thingiverse: https://www.thingiverse.com/thing:5907479

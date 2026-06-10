@@ -1,1 +1,0 @@
-DOOM Slayer Right Shoulder Pauldron by JohnnyDarling on Thingiverse: https://www.thingiverse.com/thing:4014866

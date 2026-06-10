@@ -1,1 +1,0 @@
-DOOM Slayer Spine by JohnnyDarling on Thingiverse: https://www.thingiverse.com/thing:3992605

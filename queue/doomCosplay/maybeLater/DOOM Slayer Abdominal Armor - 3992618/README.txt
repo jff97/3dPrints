@@ -1,1 +1,0 @@
-DOOM Slayer Abdominal Armor by JohnnyDarling on Thingiverse: https://www.thingiverse.com/thing:3992618

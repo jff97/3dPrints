@@ -1,1 +1,0 @@
-DOOM Slayer Belt Buckle Thing by JohnnyDarling on Thingiverse: https://www.thingiverse.com/thing:3992613
